@@ -2,4 +2,7 @@
 
 int main(){
 	print("Hellow world");
+	print("wasaaaa");
 }
+
+
